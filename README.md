@@ -3,7 +3,7 @@
 I'm Felipe Hernández a Software Developer, love to learn new things and coding all the time. Now I'm working as a Fulstack Developer and doing Automation Tests with Javascript learning TestCafe Framework an another awesome ones.
 
 - 🔭 I’m currently working on ...
-        Endava as Fullstack Developer
+        Endava as a Fullstack Developer
 - 🌱 I’m currently learning ...
         Automation Test with Test Cafe
         NodeJs
