@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Felipe Hernández a Software Developer, love to learn new things and coding all the time. Now I'm working as a Fullstack Developer and doing Automation Tests with Java/Javascript learning TestCafe and Serenity Frameworks. off course an another awesome ones as well.
+I'm Felipe Hernández a Software Developer, love to learn new things and coding all the time. Now I'm working as a Fullstack Developer and doing Automation Tests with Java/Javascript learning TestCafe and Serenity Frameworks. off course another awesome ones as well.
 
 - 🔭 I’m currently working on ...
         Endava as a Fullstack Developer
